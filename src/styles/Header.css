@@ -1,0 +1,28 @@
+
+ul{
+    background-color: black;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding: 10px 0px 10px 50px;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+li{
+    background-color: black;
+}
+
+.header{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    width: 100px;
+    background-color: black;
+}
